@@ -1,0 +1,42 @@
+
+
+
+.carousel-inner
+{
+	height: 400px;
+}
+.carousel-item{
+ 
+ height: 400px;
+ 
+ background-size:cover !important;
+ background-position:center center !important;
+
+}
+
+.card-deck{
+	margin-top:30px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.botnav{
+	margin-top:30px;
+	background-color:black;
+}
+
+.topnav{
+	background-color:black;
+	color:#000;
+}
+
+
+.sec{
+	height: 400px;
+}
+
+.calabout{
+	margin-top:30px;
+	text-align:center;
+	font-family:Arial;
+}
